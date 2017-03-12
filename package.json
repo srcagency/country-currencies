@@ -1,0 +1,13 @@
+{
+	"name": "country-currency",
+	"version": "1.0.0",
+	"description": "A mapping of countries and their most used currency",
+	"repository": "srcagency/country-currency",
+	"scripts": {
+		"test": "node test"
+	},
+	"devDependencies": {
+		"tape": "^4.6.3"
+	},
+	"license": "MIT"
+}
